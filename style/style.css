@@ -226,6 +226,7 @@ body {
   margin-top: -25px;
   font-size: 1rem;
   font-weight: lighter;
+  scale: 2.0;
 }
 
 #replay {
@@ -297,5 +298,6 @@ body {
     margin-top: -25px;
     font-size: 1.5rem;
     font-weight: lighter;
+    scale: 2.0;
   }
 }
