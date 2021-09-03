@@ -211,7 +211,7 @@ body {
 }
 
 .wish-hbd {
-  font-size: 15px;
+  font-size: 20px;
   margin: 0;
   text-transform: uppercase;
 }
@@ -280,8 +280,8 @@ body {
   }
 
   .six .hat {
-    width: 50px;
-    top: -20px;
+    width: 250px;
+    top: -40px;
   }
 
   .wish-hbd {
