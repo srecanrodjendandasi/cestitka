@@ -218,12 +218,12 @@ body {
 
 .wish h5 {
   font-weight: lighter;
-  font-size: 2rem;
+  font-size: 1rem;
   margin: 10px 0 0;
 }
 
 .nine p {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: lighter;
 }
 
@@ -235,7 +235,7 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 46.5%;
+    left: 60%;
   }
 }
 
